@@ -1,5 +1,5 @@
 ## About 'owo forecast'
-'owo forecast' is a simple and cute weather forecast web app that gives a weekly glance of the weather for Vancouve, BC Canada. 
+'owo forecast' is a simple and cute weather forecast web app that gives a weekly glance of the weather for Vancouver, BC Canada. 
 It provides you information about the temperature, weather type, and date for the week.
 
 ## Tools & Languages
